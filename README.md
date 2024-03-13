@@ -3,11 +3,12 @@
 Copy a lot of the manual from https://manual.mixxx.org/2.3/en/hardware/controllers/numark_mixtrack_pro_fx.html
 Just updated where we have made changes / additions
 
-## Changes (from Octopussy gist)
+## Changes (from QGazQ gist)
 
 ### xml
+Updated to work with mixxx 2.4
 
-Changed author and file names to me (QGazQ), this is to allow side by side loading and compare.
+Changed author and file names to me (evoixmr), this is to allow side by side loading and compare.
 If this were to be submitted they should be removed.
 
 Added effect parameter callback bindings 4 more times so we have 1 per effect (see below for use)
