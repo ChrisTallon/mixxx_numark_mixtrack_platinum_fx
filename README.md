@@ -1,9 +1,11 @@
 # mixxx_numark_mixtrack_platinum_fx
 
-Copy a lot of the manual from https://manual.mixxx.org/2.3/en/hardware/controllers/numark_mixtrack_pro_fx.html
-Just updated where we have made changes / additions
+Manual PR - Manual - https://github.com/mixxxdj/manual/pull/623
 
-## Changes (from QGazQ gist)
+Mapping PR - https://github.com/mixxxdj/mixxx/pull/12872
+
+Forum thread - https://mixxx.discourse.group/t/numark-mixtrack-platinum-fx-mapping/19985/215
+
 
 ### xml
 Updated to work with mixxx 2.4
