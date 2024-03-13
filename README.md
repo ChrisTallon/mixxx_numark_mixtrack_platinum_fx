@@ -1,5 +1,7 @@
 # mixxx_numark_mixtrack_platinum_fx
 
+Manual preview - https://deploy-preview-623--mixxx-manual.netlify.app/hardware/controllers/numark_mixtrack_platinum_fx
+
 Manual PR - Manual - https://github.com/mixxxdj/manual/pull/623
 
 Mapping PR - https://github.com/mixxxdj/mixxx/pull/12872
