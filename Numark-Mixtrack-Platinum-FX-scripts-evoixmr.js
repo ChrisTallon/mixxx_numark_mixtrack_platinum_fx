@@ -109,7 +109,7 @@ MixtrackPlatinumFX.BlinkStart = function(callback, slow) {
 			// empty slot
 			MixtrackPlatinumFX.CallBacks[i]=callback;
 			MixtrackPlatinumFX.CallSpeed[i]=slow;
-			return i+1;
+			return Number(i)+1;
 		}
 	}
 	var idx = MixtrackPlatinumFX.CallBacks.push(callback);
